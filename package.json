@@ -2,7 +2,7 @@
     "name": "dark-gt-signature",
     "displayName": "Dark GT Signature",
     "description": "A variation of github dark theme",
-    "publisher": "Contractor_Nesamani",
+    "publisher": "ContractorNesamani",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.59.0"
