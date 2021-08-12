@@ -19,7 +19,7 @@ ACTIVITY BAR
 ![title](https://user-images.githubusercontent.com/31678903/129126963-45ae1801-4f1f-4a18-9676-49a852460d88.png)
 
 
-For best settings use jetbrains mono (free) font and use the settings shown below in settings.json
+For best settings use jetbrains mono (free) font and use the font size as 16 in both editor and terminal as shown below in settings.json
 ![best settings](https://user-images.githubusercontent.com/31678903/129154502-8acafbe2-ed9d-4004-b658-567c708efd8f.PNG)
 
 
