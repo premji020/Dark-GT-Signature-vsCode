@@ -1,7 +1,6 @@
 # README
-This is based on github deFault dark theme with italics.
+This is based on github deFault dark theme and winter is coming syntax with italics.
 
-The screenshots below has JetBrains Mono font with font size 16 which you can change in settings.json.
 
 HTML
 ![html](https://user-images.githubusercontent.com/31678903/129126942-51b97098-3fa4-492f-974c-517bbcad3c1c.png)
@@ -19,6 +18,9 @@ REACT
 ACTIVITY BAR
 ![title](https://user-images.githubusercontent.com/31678903/129126963-45ae1801-4f1f-4a18-9676-49a852460d88.png)
 
+
+For best settings use jetbrains mono (free) font and use the settings shown below in settings.json
+![best settings](https://user-images.githubusercontent.com/31678903/129154502-8acafbe2-ed9d-4004-b658-567c708efd8f.PNG)
 
 
 
