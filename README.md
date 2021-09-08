@@ -1,5 +1,11 @@
 # README
-This is based on github deFault dark theme and winter is coming syntax with italics.
+This theme is a collection of different syntax themes with github dark default theme.
+
+Dark GT Signature - Based on Night owl theme.
+Dark GT Mirage - Based on Ayu mirage theme.
+Dark GT Mono - Based on Monokai theme.
+Dark GT Dracula - Based on Dracula theme.
+Dark GT Reprise - Based on Vscode default + dark theme.
 
 
 HTML
@@ -11,8 +17,6 @@ CSS
 JS
 ![Js](https://user-images.githubusercontent.com/31678903/129127170-3dbf74cc-ab6b-4fb7-ac09-ad0dec85a6cc.PNG)
 
-REACT
-![react](https://user-images.githubusercontent.com/31678903/129127210-927c3dc7-224e-452a-9aff-c4df8c2ea633.PNG)
 
 
 ACTIVITY BAR
