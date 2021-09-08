@@ -1,0 +1,44 @@
+{
+    "name": "dark-gt-theme",
+    "displayName": "Dark GT Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark GT Signature",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark GT Signature-color-theme.json"
+            },
+            {
+                "label": "Dark GT Mirage",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark GT Mirage-color-theme.json"
+            },
+            {
+                "label": "Dark GT Mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark GT Mono-color-theme.json"
+            },
+            {
+                "label": "Dark GT Dracula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark GT Dracula-color-theme.json"
+            },
+            {
+                "label": "Dark GT Reprise",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark GT Reprise-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.97.0"
+    }
+}
