@@ -1,11 +1,11 @@
 # README
 This theme is a collection of different syntax themes with github dark default theme.
 
-Dark GT Signature - Based on Night owl theme.
-Dark GT Mirage - Based on Ayu mirage theme.
-Dark GT Mono - Based on Monokai theme.
-Dark GT Dracula - Based on Dracula theme.
-Dark GT Reprise - Based on Vscode default + dark theme.
+1. Dark GT Signature - Based on Night owl theme.
+2. Dark GT Mirage - Based on Ayu mirage theme.
+3. Dark GT Mono - Based on Monokai theme.
+4. Dark GT Dracula - Based on Dracula theme.
+5. Dark GT Reprise - Based on Vscode default + dark theme.
 
 
 HTML
